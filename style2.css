@@ -1,5 +1,6 @@
 body{
 	margin:auto 0;
+     
     font-family: all;
 }
 
@@ -54,12 +55,14 @@ body{
 	display: flex;
 	font-size: 0.4em;
 	/*list-style: none;*/
-	padding:  0; }
+	padding:  0;
+        box-sizing: border-box;
+ }
 
 }
 
 .push{
-	margin-left: center;
+	margin-left: auto;
 }
 
 
@@ -77,7 +80,8 @@ align-items: center;
 justify-content: center;
 height: 50%;
 margin-top: 50px;
-
+ box-sizing: border-box;
+margin-right:0px;
 
 
 }
