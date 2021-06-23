@@ -56,7 +56,9 @@ body{
 	font-size: 0.4em;
 	/*list-style: none;*/
 	padding:  0;
+flex-wrap: wrap;
         box-sizing: border-box;
+
  }
 
 }
@@ -82,7 +84,7 @@ height: 50%;
 margin-top: 50px;
  box-sizing: border-box;
 margin-right:0px;
-
+flex-wrap: wrap;
 
 }
 .cover{
