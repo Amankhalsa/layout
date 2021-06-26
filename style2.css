@@ -67,6 +67,12 @@ body{
 li{
 	padding: 20px;
 }
+li>a:hover{
+color:yellow;
+font-weight: bolder;
+
+  
+}
 a{
 	text-decoration: none;
 	color: white;
