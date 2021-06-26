@@ -4,7 +4,11 @@ body{
     font-family: all;
 }
 
+.cover{
 
+width: 25rem;
+height: 100%;
+}
 .zone {
 /*	margin: 30px 50px;
 	padding: 40px 60px;*/
@@ -87,14 +91,7 @@ margin-right:0px;
 flex-wrap: wrap;
 
 }
-.cover{
 
-width: 30rem;
-height: 100%;
-
-
-
-}
 
 .grid-wraper{
     display: grid;
